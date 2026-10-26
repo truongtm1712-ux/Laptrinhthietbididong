@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Laptrinhthietbididong" >
         <activity
-            android:name=".Baithuchanh03"
+            android:name=".Bai1tuan4"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Laptrinhthietbididong"

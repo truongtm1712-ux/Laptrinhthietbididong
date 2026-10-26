@@ -1,4 +1,3 @@
-
 package com.example.laptrinhthietbididong
 
 import android.os.Bundle

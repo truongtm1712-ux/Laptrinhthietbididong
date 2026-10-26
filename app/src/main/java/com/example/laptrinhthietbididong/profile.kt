@@ -57,7 +57,7 @@ fun PersonalProfileScreen() {
 
                 Image(
                     painter = painterResource(
-                        id = R.drawable.z7376954290290_426dc15ef004c9d2eb5589ba4ce6f89b
+                        id = R.drawable.image1
                     ),
                     contentDescription = "Ảnh đại diện",
                     modifier = Modifier
